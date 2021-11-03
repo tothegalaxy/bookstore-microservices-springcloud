@@ -71,7 +71,7 @@
   # 工程将编译出七个SpringBoot Jar
   # 启动服务需要运行以下七个微服务组件
   # 配置中心微服务：localhost:8888
-  $ java -jar ./bookstore-microservices-platform-configuration/target/bookstore-microservice-platform-configuration-1.0.0-SNAPSHOT.jar
+  $ java -jar ./bookstore-microservices-platform-configuration/target/bookstore-microservices-platform-configuration-1.0.0-SNAPSHOT.jar
   # 服务发现微服务：localhost:8761
   $ java -jar ./bookstore-microservices-platform-registry/target/bookstore-microservices-platform-registry-1.0.0-SNAPSHOT.jar
   # 服务网关微服务：localhost:8080

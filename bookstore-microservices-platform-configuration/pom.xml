@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>bookstore-microservice-platform-configuration</artifactId>
+    <artifactId>bookstore-microservices-platform-configuration</artifactId>
 
     <dependencies>
         <dependency>
